@@ -1,0 +1,6 @@
+#Windows
+Thumbs.db
+#My configuration
+*.jpg
+*.png
+pic/

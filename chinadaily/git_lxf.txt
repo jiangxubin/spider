@@ -1,0 +1,5 @@
+hello
+second,i add another line
+wow, i know the procedure :modifify your file-add the change-commit the change 
+how to see the change
+i will create a new file to model the temperary stage and master branch
